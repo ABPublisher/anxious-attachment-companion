@@ -19,9 +19,7 @@
     manage recurring bills, and view forward balance forecasts.
   </p>
   <p>
-    <a href="[[https://play.google.com/store/apps/details?id=com.abpublisher.anxiousattachment](https://play.google.com/store/apps/details?id=com.abpublisher.cashflow_forecast_budget
-)](https://play.google.com/store/apps/details?id=com.abpublisher.cashflow_forecast_budget
-)" target="_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.abpublisher.cashflow_forecast_budget" target="_blank">
       View on Google Play
     </a>
   </p>
